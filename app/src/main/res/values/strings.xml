@@ -1,0 +1,43 @@
+<resources>
+    <string name="app_name">Test</string>
+
+    <string name="ic_arrow_right">&#xe6a7;</string>
+    <string name="ic_setting">&#xe77e;</string>
+    <string name="ic_goto">&#xe600;</string>
+    <string name="ic_send">&#xe68d;</string>
+    <string name="ic_not_read">&#xe7e5;</string>
+    <string name="ic_save">&#xe62c;</string>
+    <string name="ic_back">&#xe60d;</string>
+    <string name="ic_lock">&#xe6d1;</string>
+    <string name="ic_success">&#xe6c1;</string>
+    <string name="ic_setting_language">&#xe647;</string>
+    <string name="ic_setting_fontsize">&#xe60c;</string>
+    <string name="ic_setting_theme">&#xe87f;</string>
+    <string name="ic_video_rebroadcast">&#xe621;</string>
+    <string name="ic_video_suspend">&#xe620;</string>
+    <string name="ic_video_play">&#xe64e;</string>
+    <string name="ic_video_close">&#xe639;</string>
+    <string name="ic_video_last">&#xe630;</string>
+    <string name="ic_video_next">&#xe601;</string>
+    <string name="ic_video_stop">&#xe62e;</string>
+    <string name="ic_video_finish">&#xe61b;</string>
+    <string name="ic_envelope">&#xe60b;</string>
+    <string name="ic_exit">&#xe815;</string>
+    <string name="ic_message">&#xe603;</string>
+    <string name="ic_list">&#xe6da;</string>
+    <string name="ic_photo_back">&#xe67f;</string>
+    <string name="ic_circle_hollow">&#xe60f;</string>
+    <string name="ic_circle_solid">&#xe69b;</string>
+    <string name="ic_circle_background">&#xe602;</string>
+    <string name="ic_back_to_back">&#xe642;</string>
+    <string name="ic_arrow_down">&#xe604;</string>
+    <string name="ic_volume">&#xe608;</string>
+    <string name="ic_volume_no">&#xe60a;</string>
+    <string name="ic_sun">&#xe606;</string>
+    <string name="ic_sound">&#xe6a5;</string>
+    <string name="ic_false">&#xe622;</string>
+    <string name="ic_plus">&#xe64f;</string>
+    <string name="ic_reduce">&#xe675;</string>
+    <string name="ic_edit">&#xe624;</string>
+    <string name="ic_delete">&#xe62f;</string>
+</resources>
